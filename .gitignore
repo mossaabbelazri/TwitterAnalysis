@@ -31,7 +31,6 @@ buildNumber.properties
 Thumbs.db
 
 # Project specific
-output/
 *.log
 
 # Tweet data files
