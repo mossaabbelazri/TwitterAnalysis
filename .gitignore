@@ -61,4 +61,17 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
-snscrape-env/ 
+snscrape-env/
+
+# Spark temp folders
+spark-warehouse/
+spark-local/
+
+# Master Project Reports and Presentations
+*.docx
+*.pdf
+*.pptx
+*.xlsx
+!FabrizioRomano_tweets.xlsx
+Rapport_*.md
+Diagramme_*.md
